@@ -1,4 +1,3 @@
-### Hola Mundo 👋
 ![Main](https://github-readme-stats.vercel.app/api?username=Ruben-PX&theme=tokyonight)
 ![Used Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ruben-PX&layout=compact&theme=tokyonight)
 
