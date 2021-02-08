@@ -6,11 +6,11 @@
 - Backend
   - PHP (Poco)
   - Nodejs (3 Años)
-  - Nativo
-    - Typescrypt (Inicio: Junio-2019)
-    - Javascript (Inicio: 2018)
-  - Frameworks
-    - Svelte (Inicio: Nov-2020)
+    - Nativo
+      - Typescrypt (Inicio: Junio-2019)
+      - Javascript (Inicio: 2018)
+    - Frameworks
+      - Svelte (Inicio: Nov-2020)
   - SQL (Inicio: Sep-2020)
   - Java (Inicio: Sep-2020)
 - WEB (Completo)
