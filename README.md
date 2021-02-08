@@ -1,6 +1,23 @@
 ![Main](https://github-readme-stats.vercel.app/api?username=RubenPX&theme=tokyonight)
 ![Used Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RubenPX&layout=compact&theme=tokyonight)
 
+## Lenguajes
+
+- WEB (Completo)
+  - HTML
+  - JavaScript
+  - CSS
+- Backend
+  - PHP (Poco)
+  - Nodejs (3 Años)
+    - Nativo
+      - Typescrypt (Inicio: Junio-2019)
+      - Javascript (Inicio: 2018)
+    - Frameworks
+      - Svelte (Inicio: Nov-2020)
+  - SQL (Inicio: Sep-2020)
+  - Java (Inicio: Sep-2020)
+
 <!--
 **Ruben-PX/Ruben-PX** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
