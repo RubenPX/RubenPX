@@ -1,15 +1,17 @@
 Software IT Developer
 
 - Backend
-    - Nodejs (3 Años)
+    - [NodeJS](https://nodejs.org/es/) (Jun-2020)
         - Nativo
-            -Typescrypt (Junio-2019)
-            -Javascript (2018)
+            - [Typescript](https://www.typescriptlang.org/) (Junio-2019)
+            - [javascript](https://developer.mozilla.org/es/docs/Web/JavaScript) (2018)
         - Frameworks
-            - Svelte (Nov-2020)
-        - SQL (Sep-2020)
-        - Java (Sep-2020)
-        - C# (Active) (2015)
+            - [Svelte](https://svelte.dev/) (Nov-2020)
+            - [ReactJS](https://reactjs.org/) (Mar-2021)
+            - [LIT](https://lit.dev/)
+     - [SQL](https://www.w3schools.com/sql/default.asp) (Sep-2020)
+     - [Java](https://docs.oracle.com/en/java/javase/15/) (Sep-2020)
+     - [C#](https://docs.microsoft.com/es-es/dotnet/csharp/) (Very Active) (2015)
 - WEB (Completo)
     - HTML
     - JavaScript
