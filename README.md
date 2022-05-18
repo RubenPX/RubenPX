@@ -7,9 +7,14 @@
 
 ---
 
-<img src="https://c.tenor.com/hHaVzeiH-hcAAAAC/imsickofwork-technologysu-x.gif" alt="cat-programmer" align="right" with=500 height=300>
-<h3 align="center">Languages and Tools</h3>
-
+<img src="https://c.tenor.com/hHaVzeiH-hcAAAAC/imsickofwork-technologysu-x.gif" alt="cat-programmer" align="right" height=450>
+<h3 align="center"><u>Languages and Tools</u></h3>
+<p align="center">
+<a href="https://code.visualstudio.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" height="40" /></a>
+<a href="https://visualstudio.microsoft.com/es/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" width="40" height="40" /></a>
+<a href="https://git-scm.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40" /></a>
+<a href="https://trello.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain.svg" width="40" height="40" /></a>
+</p>
 <p align="center">
 <a href="https://dotnet.microsoft.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-plain.svg" alt="csharp" width="40" height="40" /></a>
 <a href="https://dotnet.microsoft.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-plain.svg" alt="csharp" width="40" height="40" /></a>
@@ -33,8 +38,14 @@
 <a href="https://www.mysql.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40" /></a>
 <a href="https://graphql.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg" alt="GraphQL" width="40" height="40" /></a>
 </p>
-<br>
-<h2 align="center">⚡ Stats ⚡</h2>
+<h3 align="center">Extra</h3>
+<p align="center">
+<a href="https://www.raspberrypi.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/raspberrypi/raspberrypi-original.svg" width="40" height="40" /></a>
+<a href="https://www.arduino.cc/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" width="40" height="40" /></a>
+<a href="https://www.android.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-plain.svg" width="40" height="40" /></a>
+</p>
+
+<u><h2 align="center">⚡ Stats ⚡</h2></u>
 <p align=center>
 <img  width="100%" src="https://activity-graph.herokuapp.com/graph?username=RubenPX&theme=react-dark&hide_border=true"/>
 <img align="center" width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=RubenPX&theme=react&border=61dafb&hide_border=true" alt="RubenPX" />
