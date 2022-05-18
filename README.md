@@ -36,7 +36,7 @@
 <br>
 <h2 align="center">⚡ Stats ⚡</h2>
 <p align=center>
-<img align="center" width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=RubenPX&theme=react&border=61dafb&hide_border=true" alt="RubenPX" />
 <img  width="100%" src="https://activity-graph.herokuapp.com/graph?username=RubenPX&theme=react-dark&hide_border=true"/>
+<img align="center" width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=RubenPX&theme=react&border=61dafb&hide_border=true" alt="RubenPX" />
 </p>
 
