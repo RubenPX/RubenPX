@@ -48,5 +48,5 @@
 <u><h2 align="center">⚡ Stats ⚡</h2></u>
 <p align=center>
 <img align="center" width="100%" src="https://github-readme-streak-stats.herokuapp.com?user=RubenPX&theme=github-dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&ring=04DD00&fire=0073DD" alt="RubenPX" />
-<img  width="100%" src="https://activity-graph.herokuapp.com/graph?username=RubenPX&theme=react-dark&hide_border=true"/>
+<img  width="100%" src="https://activity-graph.herokuapp.com/graph?username=RubenPX&theme=react-dark&hide_border=true&hide_title=true"/>
 </p>
