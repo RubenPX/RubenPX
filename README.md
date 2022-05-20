@@ -6,8 +6,8 @@
 <p align="center">😻 I love Cats & Dogs 🐾</p>
 
 ---
-
-<img src="https://c.tenor.com/hHaVzeiH-hcAAAAC/imsickofwork-technologysu-x.gif" alt="cat-programmer" align="right" height=450>
+<img align="right" width="600" src="https://github-readme-streak-stats.herokuapp.com?user=RubenPX&theme=github-dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&ring=04DD00&fire=0073DD" alt="RubenPX" />
+<img align="right"  width="600" src="https://activity-graph.herokuapp.com/graph?username=RubenPX&theme=react-dark&hide_border=true&hide_title=true&line=04DC00&color=04DC00"/>
 <h3 align="center"><u>Languages and Tools</u></h3>
 <p align="center">
 <a href="https://code.visualstudio.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" height="40" /></a>
@@ -43,10 +43,4 @@
 <a href="https://www.raspberrypi.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/raspberrypi/raspberrypi-original.svg" width="40" height="40" /></a>
 <a href="https://www.arduino.cc/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" width="40" height="40" /></a>
 <a href="https://www.android.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-plain.svg" width="40" height="40" /></a>
-</p>
-
-<u><h2 align="center">⚡ Stats ⚡</h2></u>
-<p align=center>
-<img  width="100%" src="https://activity-graph.herokuapp.com/graph?username=RubenPX&theme=react-dark&hide_border=true&hide_title=true&line=04DC00&color=04DC00"/>
-<img align="center" width="100%" src="https://github-readme-streak-stats.herokuapp.com?user=RubenPX&theme=github-dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&ring=04DD00&fire=0073DD" alt="RubenPX" />
 </p>
