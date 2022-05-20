@@ -2,7 +2,7 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;I'm+RubenPX;Nice+to+meet+you!&center=true&size=35"></a>
 <h3 align="center">Passion for learning and exploring new technologies.</h3>
 
-<p align="center">🌱 I’m currently learning <b>Typescript</b>, <b>TypeORM</b>, <b>React+Typescript</b> 🌱</p>
+<p align="center">🌱 I’m currently learning <b>Hexagonal Architecture</b> + <b>Typescript</b> 🌱</p>
 <p align="center">😻 I love Cats & Dogs 🐾</p>
 
 ---
