@@ -1,3 +1,4 @@
+
 <img align="right" height=200 width=390 src="https://github-readme-stats.vercel.app/api/top-langs/?username=RubenPX&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true" />
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;I'm+RubenPX;Nice+to+meet+you!&center=true&size=35"></a>
 <h3 align="center">Passion for learning and exploring new technologies.</h3>
@@ -5,9 +6,12 @@
 <p align="center">🌱 I’m currently learning <b>Hexagonal Architecture</b> + <b>Typescript</b> 🌱</p>
 <p align="center">😻 I love Cats & Dogs 🐾</p>
 
+
 ---
-<img align="right" width="600" src="https://github-readme-streak-stats.herokuapp.com?user=RubenPX&theme=github-dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&ring=04DD00&fire=0073DD" alt="RubenPX" />
-<img align="right"  width="600" src="https://activity-graph.herokuapp.com/graph?username=RubenPX&theme=react-dark&hide_border=true&hide_title=true&line=04DC00&color=04DC00"/>
+<img align="right" width="600" src="https://github-readme-streak-stats.herokuapp.com?user=RubenPX&theme=github-dark&date_format=j%20M%5B%20Y%5D&border=195572&stroke=006FDD&ring=006FDD&fire=21FF00&currStreakLabel=006FDD&sideLabels=006FDD&currStreakNum=006FDD&sideNums=006FDD" alt="RubenPX" />
+<img align="right" width="600" src="https://github-readme-stats.vercel.app/api/wakatime?username=caf94791-f61a-4472-bafd-73df9900769f&theme=github_dark&border_color=195572" /> 
+
+
 <h3 align="center"><u>Languages and Tools</u></h3>
 <p align="center">
 <a href="https://code.visualstudio.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" height="40" /></a>
@@ -44,3 +48,5 @@
 <a href="https://www.arduino.cc/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" width="40" height="40" /></a>
 <a href="https://www.android.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-plain.svg" width="40" height="40" /></a>
 </p>
+
+<img width="100%" src="https://activity-graph.herokuapp.com/graph?username=RubenPX&theme=react-dark&hide_title=true&line=006FDD&point=006FDD&color=006FDD&hide_border=true&bg_color=0e1117"/>
