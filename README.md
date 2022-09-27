@@ -4,9 +4,13 @@
 <h3 align="center">Passion for learning and exploring new technologies.</h3>
 
 <p align="center">
-🌱 <img src="https://img.shields.io/badge/Free%20Time%20Developer-181717?style=flat-square&logo=opensourceinitiative"> 🌱
+<img src="https://img.shields.io/badge/Free%20Time%20Developer-181717?style=flat-square&logo=opensourceinitiative">
+<img src="https://img.shields.io/badge/Dark%20Theme%20Lover-181717?style=flat-square&logo=darkreader">
 <h3 align="center">🐈 ❤️ 🐕</h3>
 </p>
+
+
+
 
 ---
 
