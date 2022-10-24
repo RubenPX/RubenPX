@@ -13,7 +13,7 @@
 
 
 <img align="right" width="48%" src="https://github-readme-stats.vercel.app/api/wakatime?username=RubenPX&theme=github_dark&border_color=195572" /> 
-<img align="center" width="48%" src="https://github-readme-streak-stats.herokuapp.com?user=RubenPX&theme=github-dark&date_format=j%20M%5B%20Y%5D&border=195572&stroke=006FDD&ring=006FDD&fire=21FF00&currStreakLabel=006FDD&sideLabels=006FDD&currStreakNum=006FDD&sideNums=006FDD" alt="RubenPX" />
+<a href="https://wakatime.com/@RubenPX"><img align="center" width="48%" src="https://github-readme-streak-stats.herokuapp.com?user=RubenPX&theme=github-dark&date_format=j%20M%5B%20Y%5D&border=195572&stroke=006FDD&ring=006FDD&fire=21FF00&currStreakLabel=006FDD&sideLabels=006FDD&currStreakNum=006FDD&sideNums=006FDD" alt="RubenPX" /> </a>
 
 <h3 align="center"><u>🚀💻 Technologies & Tools</u></h3>
 <p align="center">
