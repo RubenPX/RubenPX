@@ -1,5 +1,5 @@
 
-<img align="right" height=200 width=390 src="https://github-readme-stats.vercel.app/api/top-langs/?username=RubenPX&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true" />
+<img align="right" height=200 width=390 src="https://github-readme-stats.vercel.app/api/top-langs/?username=RubenPX&langs_count=8&layout=compact&theme=github_dark&border_color=195572" />
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;I'm+RubenPX;Nice+to+meet+you!&center=true&size=35"></a>
 <h3 align="center">Passion for learning and exploring new technologies.</h3>
 
@@ -12,9 +12,9 @@
 ---
 
 
-<a href="https://wakatime.com/@RubenPX"><img align="right" width="48%" src="https://github-readme-stats.vercel.app/api/wakatime?username=RubenPX&api_domain=wakapi.dev&bg_color=1A202C&title_color=2F855A&icon_color=2F855A&text_color=ffffff&custom_title=Wakapi%20Week%20Stats&layout=compact" /></a>
+<a href="https://wakatime.com/@RubenPX"><img align="right" width="48%" src="https://github-readme-stats.vercel.app/api/wakatime?username=RubenPX&api_domain=wakapi.dev&theme=github_dark&custom_title=Wakapi%20Week%20Stats&layout=compact&border_color=195572" /></a>
 
-<img align="center" width="48%" src="https://github-readme-streak-stats.herokuapp.com?user=RubenPX&theme=github-dark&date_format=j%20M%5B%20Y%5D&border=195572&stroke=006FDD&ring=006FDD&fire=21FF00&currStreakLabel=006FDD&sideLabels=006FDD&currStreakNum=006FDD&sideNums=006FDD" alt="RubenPX" />
+<img align="center" width="48%" src="https://github-readme-streak-stats.herokuapp.com?user=RubenPX&theme=github-dark&date_format=j%20M%5B%20Y%5D&border=195572&stroke=006FDD&ring=006FDD&fire=21FF00&currStreakLabel=006FDD&sideLabels=006FDD&currStreakNum=006FDD&sideNums=006FDD&" alt="RubenPX" />
 
 <h3 align="center"><u>🚀💻 Technologies & Tools</u></h3>
 <p align="center">
