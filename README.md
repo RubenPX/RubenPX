@@ -12,7 +12,7 @@
 ---
 
 
-<a href="https://wakatime.com/@RubenPX"><img align="right" width="48%" src="https://github-readme-stats.vercel.app/api/wakatime?username=RubenPX&theme=github_dark&custom_title=Week%20Stats&layout=compact&border_color=195572" /></a>
+<a href="https://wakatime.com/@RubenPX"><img align="right" width="48%" src="https://github-readme-stats.vercel.app/api/wakatime?username=RubenPX&api_domain=wakapi.dev&theme=github_dark&custom_title=Wakapi%20Week%20Stats&layout=compact&border_color=195572" /></a>
 
 <img align="center" width="48%" src="https://github-readme-streak-stats.herokuapp.com?user=RubenPX&theme=github-dark&date_format=j%20M%5B%20Y%5D&border=195572&stroke=006FDD&ring=006FDD&fire=21FF00&currStreakLabel=006FDD&sideLabels=006FDD&currStreakNum=006FDD&sideNums=006FDD&" alt="RubenPX" />
 
