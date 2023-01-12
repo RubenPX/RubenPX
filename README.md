@@ -1,3 +1,7 @@
+<img src="/github-metrics.svg" alt="Metrics" width="100%">
+
+---
+
 <img align="right" height=200 width=390 src="https://github-readme-stats.vercel.app/api/top-langs/?username=RubenPX&langs_count=8&layout=compact&theme=github_dark&border_color=195572" />
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;I'm+RubenPX;Nice+to+meet+you!&center=true&size=35"></a>
 <h3 align="center">Passion for learning and exploring new technologies.</h3>
