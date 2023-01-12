@@ -53,4 +53,11 @@
 
 </p>
 
-<img width="100%" src="https://activity-graph.herokuapp.com/graph?username=RubenPX&theme=react-dark&hide_title=true&line=006FDD&point=006FDD&color=006FDD&hide_border=true&bg_color=0e1117"/>
+<p align="center"> 
+  Visitor Count
+  
+  </br>
+  <img src="https://profile-counter.glitch.me/RubenPX/count.svg" />
+</p>
+
+<!--<img width="100%" src="https://activity-graph.herokuapp.com/graph?username=RubenPX&theme=react-dark&hide_title=true&line=006FDD&point=006FDD&color=006FDD&hide_border=true&bg_color=0e1117"/>-->
