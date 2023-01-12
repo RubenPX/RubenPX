@@ -26,7 +26,6 @@ jobs:
 
           # Options
           user: RubenPX
-          template: classic
           base: header, activity, community, repositories, metadata
           base_indepth: yes
           config_display: columns
