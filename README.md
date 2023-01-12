@@ -54,7 +54,7 @@
 </p>
 
 <p align="center"> 
-  Visitor Count
+  Visitor Count (12 / 1 / 2020)
   
   </br>
   <img src="https://profile-counter.glitch.me/RubenPX/count.svg" />
