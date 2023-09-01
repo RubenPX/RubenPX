@@ -1,7 +1,8 @@
 
 <div align="center"><img src="/github-metrics.svg?user='RubenPX'" with="100%" align="center" /></div>
-
-
+<p align="center"><img src="https://profile-counter.glitch.me/RubenPX/count.svg" /></p>p>
+<!-- Counter Start date: 12 / 1 / 2020</div> -->
+  
 ---
 
 
@@ -66,5 +67,4 @@
 </p>
 
 
-  <img src="https://profile-counter.glitch.me/RubenPX/count.svg" />
-  <!-- Counter Start date: 12 / 1 / 2020</div> -->
+  
