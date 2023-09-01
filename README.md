@@ -1,6 +1,6 @@
 
 <div align="center"><img src="/github-metrics.svg?user='RubenPX'" with="100%" align="center" /></div>
-<p align="center"><img src="https://profile-counter.glitch.me/RubenPX/count.svg" /></p>p>
+<p align="center"><img src="https://profile-counter.glitch.me/RubenPX/count.svg" /></p>
 <!-- Counter Start date: 12 / 1 / 2020</div> -->
   
 ---
@@ -59,12 +59,5 @@
 
 </p>
 
-<br /><br /><br /><br /><br /><br />
-
-<p>
-  <img width="48%" align="left" src="profile-3d-contrib/profile-night-rainbow.svg" />
-  <img width="48%" align="right" src="https://wakatime.com/share/@RubenPX/1de67955-f9f0-45b0-b282-5fba8cbfc3cc.svg" />
-</p>
-
-
-  
+<img width="100%" src="profile-3d-contrib/profile-night-rainbow.svg" />
+<img width="100%" src="https://wakatime.com/share/@RubenPX/1de67955-f9f0-45b0-b282-5fba8cbfc3cc.svg" />
