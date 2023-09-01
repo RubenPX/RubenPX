@@ -9,9 +9,9 @@
 <h3 align="center">Passion for learning and exploring new technologies.</h3>
 
 <p align="center">
-<img src="https://img.shields.io/badge/Free%20Time%20Developer-181717?style=flat-square&logo=opensourceinitiative">
-<img src="https://img.shields.io/badge/Dark%20Theme%20Lover-181717?style=flat-square&logo=darkreader">
-<h3 align="center">🐈 ❤️ 🐕</h3>
+  <img src="https://img.shields.io/badge/Free%20Time%20Developer-181717?style=flat-square&logo=opensourceinitiative">
+  <img src="https://img.shields.io/badge/Dark%20Theme%20Lover-181717?style=flat-square&logo=darkreader">
+  <h3 align="center">🐈 ❤️ 🐕</h3>
 </p>
 
 ---
@@ -58,13 +58,14 @@
 
 </p>
 
-<img width="100%" src="profile-3d-contrib/profile-night-rainbow.svg" />
+<br /><br /><br /><br /><br /><br />
 
-<img width="100%" src="https://github-readme-activity-graph.cyclic.app/graph?username=RubenPX&theme=react-dark&hide_title=true&line=006FDD&point=006FDD&color=006FDD&hide_border=true&bg_color=0e1117"/>
+<p>
+  <img width="48%" align="left" src="profile-3d-contrib/profile-night-rainbow.svg" />
+  <img width="48%" align="right" src="https://wakatime.com/share/@RubenPX/1de67955-f9f0-45b0-b282-5fba8cbfc3cc.svg" />
+</p>
 
 <p align="center"> 
-  Visitor Count
-  </br>
   <img src="https://profile-counter.glitch.me/RubenPX/count.svg" />
-  <div align=center>Start date: 12 / 1 / 2020</div>
+  <!-- Counter Start date: 12 / 1 / 2020</div> -->
 </p>
