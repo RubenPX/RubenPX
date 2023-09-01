@@ -65,7 +65,6 @@
   <img width="48%" align="right" src="https://wakatime.com/share/@RubenPX/1de67955-f9f0-45b0-b282-5fba8cbfc3cc.svg" />
 </p>
 
-<p align="left"> 
+
   <img src="https://profile-counter.glitch.me/RubenPX/count.svg" />
   <!-- Counter Start date: 12 / 1 / 2020</div> -->
-</p>
