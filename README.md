@@ -1,17 +1,16 @@
 
 <div align="center"><img src="/github-metrics.svg?user='RubenPX'" with="100%" align="center" /></div>
-<p align="center"><img src="https://profile-counter.glitch.me/RubenPX/count.svg" /></p>
-<!-- Counter Start date: 12 / 1 / 2020</div> -->
   
 ---
 
 
 <a href="https://git.io/typing-svg"><img width="100%" src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;I'm+RubenPX;Nice+to+meet+you!&center=true&size=35"></a>
-<h3 align="center">Passion for learning and exploring new technologies.</h3>
-
+<p align="center"><b>Passion for learning and exploring new technologies.</b></p>
 <p align="center">
   <img src="https://img.shields.io/badge/Free%20Time%20Developer-181717?style=flat-square&logo=opensourceinitiative">
   <img src="https://img.shields.io/badge/Dark%20Theme%20Lover-181717?style=flat-square&logo=darkreader">
+  <p align="center"><img src="https://profile-counter.glitch.me/RubenPX/count.svg" /></p>
+  <!-- Counter Start date: 12 / 1 / 2020</div> -->
   <h3 align="center">🐈 ❤️ 🐕</h3>
 </p>
 
