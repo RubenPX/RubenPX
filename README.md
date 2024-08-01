@@ -1,7 +1,7 @@
 
 <div align="center">
   
-[Favorite code style](https://gist.github.com/jesseschalken/0f47a2b5a738ced9c845)
+[Favorite code style | K&R](https://gist.github.com/jesseschalken/0f47a2b5a738ced9c845)
 </div>
 
 <div align="center"><img src="/github-metrics.svg?user='RubenPX'" with="100%" align="center" /></div>
