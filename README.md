@@ -16,7 +16,6 @@
   <img src="https://img.shields.io/badge/Dark%20Theme%20Lover-181717?style=flat-square&logo=darkreader">
   <p align="center"><img src="https://profile-counter.glitch.me/RubenPX/count.svg" /></p>
   <!-- Counter Start date: 12 / 1 / 2020</div> -->
-  <h3 align="center">🐈 ❤️ 🐕</h3>
 </p>
 
 ---
