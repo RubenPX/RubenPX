@@ -64,4 +64,3 @@
 </p>
 
 <img width="100%" src="https://wakatime.com/share/@RubenPX/d3cb1efa-a994-4f17-9450-c1e15a40e476.svg" />
-<img width="100%" src="profile-3d-contrib/profile-night-rainbow.svg" />
