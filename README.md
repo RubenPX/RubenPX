@@ -5,7 +5,7 @@
 </div>
 
 
-<img src="/github-metrics.svg" with="48%" align="right" />
+<img src="/github-metrics.svg" width="50%" align="right" />
 
 
 <a href="https://git.io/typing-svg"><img width="50%" src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;I'm+RubenPX;Nice+to+meet+you!&center=true&size=35"></a>
