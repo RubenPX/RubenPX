@@ -27,24 +27,24 @@
 <p align="center">
 
   <p align="center">
-    <img title="Element" src="https://img.shields.io/badge/Matrix-181717?style=flat-square&logo=matrix" />
-    <img title="Telegram" src="https://img.shields.io/badge/Telegram-181717?style=flat-square&logo=telegram" />
-    <img title="Discord" src="https://img.shields.io/badge/Discord-181717?style=flat-square&logo=discord" />
+    <a href="https://bsky.app/profile/kryptopx.bsky.social"><img title="BlueSky" src="https://img.shields.io/badge/KryptoPX-181717?style=flat-square&logo=bluesky" /></a>
+    <a href="https://t.me/s/KurtPX"><img title="Telegram" src="https://img.shields.io/badge/KurtPX-181717?style=flat-square&logo=telegram" /></a>
+    <a href="https://discord.com"><img title="Discord" src="https://img.shields.io/badge/KryptoPX-181717?style=flat-square&logo=discord" /></a>
   </p>
   
   <p align="center">
-    <img title="Git" src="https://img.shields.io/badge/Git-181717?style=flat-square&logo=git" />
-    <img title="GitHub" src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github" />
-    <img title="VS Code" src="https://img.shields.io/badge/VS%20Code-181717?style=flat-square&logo=visual-studio-code" />
-    <img title="Visual Studio" src="https://img.shields.io/badge/Visual%20Studio-181717?style=flat-square&logo=visual-studio" />
+    <a href="https://git-scm.com"><img title="Git" src="https://img.shields.io/badge/Git-181717?style=flat-square&logo=git" /></a>
+    <a href="https://github.com/RubenPX/"><img title="GitHub" src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github" /></a>
+    <a href="https://code.visualstudio.com"><img title="VS Code" src="https://img.shields.io/badge/VS%20Code-181717?style=flat-square&logo=none" /></a>
+    <a href="https://www.jetbrains.com/rider/"><img title="Rider" src="https://img.shields.io/badge/Rider-181717?style=flat-square&logo=Rider" /></a>
   </p>
 
   <p align="center">
-    <img title="SvelteJS" src="https://img.shields.io/badge/SvelteJS-181717?style=flat-square&logo=svelte" />
-    <img title="SvelteKit" src="https://img.shields.io/badge/SvelteKit-181717?style=flat-square&logo=svelte" />
-    <img title="Svelte" src="https://img.shields.io/badge/Typescript-181717?style=flat-square&logo=typescript" />
-    <img title="Tauri" src="https://img.shields.io/badge/Tauri-181717?style=flat-square&logo=tauri" />
-    <img title=".NET - C#" src="https://img.shields.io/badge/C%23-181717?style=flat-square&logo=dotnet" />
+    <a href="https://svelte.dev"><img title="SvelteKit" src="https://img.shields.io/badge/SvelteKit-181717?style=flat-square&logo=svelte" /></a>
+    <a href="https://www.typescriptlang.org"><img title="Typescript" src="https://img.shields.io/badge/Typescript-181717?style=flat-square&logo=typescript" /></a>
+    <a href="https://tauri.app"><img title="Tauri" src="https://img.shields.io/badge/Tauri-181717?style=flat-square&logo=tauri" /></a>
+    <a href="https://dotnet.microsoft.com/languages/csharp"><img title=".NET - C#" src="https://img.shields.io/badge/C%23-181717?style=flat-square&logo=dotnet" /></a>
+    <a href="https://dotnet.microsoft.com/apps/aspnet/web-apps/blazor"><img title=".NET - C#" src="https://img.shields.io/badge/WASM-181717?style=flat-square&logo=blazor" /></a>
   </p>
 
 </p>
