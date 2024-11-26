@@ -44,8 +44,7 @@
     <img title="SvelteKit" src="https://img.shields.io/badge/SvelteKit-181717?style=flat-square&logo=svelte" />
     <img title="Svelte" src="https://img.shields.io/badge/Typescript-181717?style=flat-square&logo=typescript" />
     <img title="Tauri" src="https://img.shields.io/badge/Tauri-181717?style=flat-square&logo=tauri" />
-    <img title=".NET" src="https://img.shields.io/badge/Dotnet-181717?style=flat-square&logo=dotnet" />
-    <img title="C#" src="https://img.shields.io/badge/CSharp-181717?style=flat-square&logo=csharp" />
+    <img title=".NET - C#" src="https://img.shields.io/badge/C%23-181717?style=flat-square&logo=dotnet" />
   </p>
 
 </p>
