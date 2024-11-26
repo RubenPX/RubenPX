@@ -23,7 +23,7 @@
   <!-- Counter Start date: 12 / 1 / 2020</div> -->
 </p>
 
-<h3 align="center"><u>🚀💻 Technologies & Tools</u></h3>
+<h3 align="center"><u>💻 Technologies & Tools 🚀</u></h3>
 <p align="center">
 
   <p align="center">
