@@ -50,7 +50,7 @@
 
 </p>
 
-<a align="left" width="47%" href="https://wakatime.com/@RubenPX"><img align="left" width="48%" src="https://github-readme-stats.vercel.app/api/wakatime?username=RubenPX&theme=github_dark&custom_title=Week%20Stats&layout=compact&border_color=195572" /></a>
+<a align="left" width="47%" href="https://wakatime.com/@RubenPX"><img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/wakatime?username=RubenPX&theme=github_dark&custom_title=Week%20Stats&layout=compact&border_color=195572" /></a>
 <img align="right" width="47%" src="https://github-readme-streak-stats.herokuapp.com?user=RubenPX&theme=github-dark&date_format=j%20M%5B%20Y%5D&border=195572&stroke=006FDD&ring=006FDD&fire=21FF00&currStreakLabel=006FDD&sideLabels=006FDD&currStreakNum=006FDD&sideNums=006FDD&" alt="RubenPX" />
 
 <img width="100%" src="https://wakatime.com/share/@RubenPX/d3cb1efa-a994-4f17-9450-c1e15a40e476.svg" />
