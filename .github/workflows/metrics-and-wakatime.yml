@@ -31,6 +31,15 @@ jobs:
           config_octicon: yes
           config_timezone: Europe/Madrid
           config_twemoji: yes
+
+          # Discussions
+          plugin_discussions: yes
+          plugin_discussions_categories_limit: 8
+
+          # Code metrics
+          plugin_habits: yes
+          plugin_habits_facts: no
+          plugin_habits_charts: yes
           
           # Wakatime
           plugin_wakatime: yes
