@@ -26,7 +26,7 @@
   <p align="center">
     <a href="https://bsky.app/profile/kryptopx.bsky.social"><img title="BlueSky" src="https://img.shields.io/badge/KryptoPX-181717?style=flat-square&logo=bluesky" /></a>
     <a href="https://t.me/s/KurtPX"><img title="Telegram" src="https://img.shields.io/badge/KurtPX-181717?style=flat-square&logo=telegram" /></a>
-    <a href="https://discord.com"><img title="Discord" src="https://img.shields.io/badge/KryptoPX-181717?style=flat-square&logo=discord" /></a>
+    <a href="https://discord.gg/TEP7CXeGh4"><img title="Discord" src="https://img.shields.io/badge/KryptoPX-181717?style=flat-square&logo=discord" /></a>
   </p>
   
   <p align="center">
