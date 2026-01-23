@@ -6,9 +6,6 @@
   [Favorite code style | K&R](https://gist.github.com/jesseschalken/0f47a2b5a738ced9c845)
 </div>
 
-
-<img src="/github-metrics.svg" width="48%" align="right" />
-
 <p align="left">
   <a href="https://git.io/typing-svg"><img width="48%" src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;I'm+RubenPX;Nice+to+meet+you!&center=true&size=35"></a>
   <p align="center"><b>Passion for learning and exploring new technologies.</b></p>
@@ -18,7 +15,6 @@
     <img src="https://img.shields.io/badge/Dark%20Theme%20Lover-181717?style=flat-square&logo=darkreader">
   </p>
 
-  <p align="center"><img src="https://profile-counter.glitch.me/RubenPX/count.svg" /></p>
   <!-- Counter Start date: 12 / 1 / 2020</div> -->
 </p>
 
