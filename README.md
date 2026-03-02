@@ -1,13 +1,16 @@
 ![imagen](https://github.com/user-attachments/assets/98090b35-1de5-4fb2-a899-a74439925a7a)
 
 
-<div align="center">
 
-  [Favorite code style | K&R](https://gist.github.com/jesseschalken/0f47a2b5a738ced9c845)
-</div>
 
 <p align="left">
-  <a href="https://git.io/typing-svg"><img width="48%" src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;I'm+RubenPX;Nice+to+meet+you!&center=true&size=35"></a>
+  <a align="center" href="https://git.io/typing-svg">
+    <img align="center" width="100%" src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;I'm+RubenPX;Nice+to+meet+you!&center=true&size=32">
+  </a>
+  <div align="center">
+    [Favorite code style | K&R](https://gist.github.com/jesseschalken/0f47a2b5a738ced9c845)
+  </div>
+
   <p align="center"><b>Passion for learning and exploring new technologies.</b></p>
   
   <p align="center">
